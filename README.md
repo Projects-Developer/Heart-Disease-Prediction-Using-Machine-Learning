@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-Using-Machine-Learning
+# Heart Disease Prediction Using Machine Learning
 Heart Disease Prediction Using Machine Learning Code, Document And Video Tutorial
 
 ![Heart Health](https://github.com/user-attachments/assets/22690f41-f02f-4105-b867-fc6ee33be233)
